@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 <img src="./assests/opensource_for_mac.png">
 </p>
 
