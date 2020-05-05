@@ -30,3 +30,4 @@ To-Do
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
 
 ### Security
+- [Mac Security](https://objective-see.com/products.html) Free Mac Security Tools
