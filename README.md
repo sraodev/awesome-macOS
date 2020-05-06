@@ -2,7 +2,7 @@
 <img src="./assests/opensource_for_mac.png">
 </p>
 
-# Open Source for macOS
+# Open Source for  macOS
 List of open source applications for macOS. This list contains a lot of native, and cross-platform apps.
 
 ## Support
