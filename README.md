@@ -25,6 +25,7 @@ To-Do
 - [ohmyzsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 - [Itsycal](http://www.mowglii.com/itsycal) - Itsycal is a tiny calendar for your Mac's menu bar.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
+- [MacCleanUp] (https://github.com/fwartner/mac-cleanup) - A cleanup script for macOS 
 
 ### Security
 
