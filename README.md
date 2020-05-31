@@ -25,8 +25,11 @@ To-Do
 - [ohmyzsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 - [Itsycal](http://www.mowglii.com/itsycal) - Itsycal is a tiny calendar for your Mac's menu bar.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
-- [MacCleanUp] (https://github.com/fwartner/mac-cleanup) - A cleanup script for macOS 
+- [MacCleanUp](https://github.com/fwartner/mac-cleanup) - A cleanup script for macOS 
+- [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software 
 
 ### Security
 
 - [Mac Security](https://objective-see.com/products.html) Free Mac Security Tools
+- [TestDisk](https://github.com/cgsecurity/testdisk) - TestDisk checks the partition and boot sectors of your disks. It is very useful in recovering lost partitions.
+
