@@ -1,4 +1,4 @@
-# Open Source for  macOS
+# Super  macOS
 List of open source applications for macOS. This list contains a lot of native, and cross-platform apps.
 
 ## Support
