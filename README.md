@@ -20,7 +20,7 @@ To-Do
 
 ### Essentials
 
-- [Homebrew](https://brew.sh) - Install the Homebrew package manager. This will allow you to install almost any app from the command line.
+- [Homebrew](https://brew.sh) - Install the Homebrew package manager.
 - [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm.
 - [ohmyzsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 - [Itsycal](http://www.mowglii.com/itsycal) - Itsycal is a tiny calendar for your Mac's menu bar.
