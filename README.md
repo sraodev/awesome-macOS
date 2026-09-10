@@ -16,6 +16,8 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [Atom](https://atom.io) - A hackable text editor for the 21st Century.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
 - [Boost Note](https://boostnote.io) - A markdown editor for developers on Mac, Windows and Linux.
+- [Orkas](https://orkas.ai/?source=gh_sraodev) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 
 ## Essentials
 
