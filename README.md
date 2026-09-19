@@ -18,6 +18,7 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [Boost Note](https://boostnote.io) - A markdown editor for developers on Mac, Windows and Linux.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first desktop AI workforce coordinated by a Commander through one chat.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, with a dedicated branch/worktree per task.
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - Desktop shell for macOS 26 with a sidebar dock, a launcher, a dashboard and a control centre.
 
 ## Essentials
 
