@@ -20,6 +20,7 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, with a dedicated branch/worktree per task.
 - [BoardEject](https://github.com/royalpinto007/boardeject) - Open-source macOS utility that exports Apple Freeform boards to editable Excalidraw and creates verified local archives with originals, processing stays local on the Mac.
 - [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Free, open-source menu bar app that opens a radial wheel while you drag files, to convert images, video, audio, documents and archives, or resize, compress and OCR them.
 
 ## Essentials
 
