@@ -29,6 +29,7 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [ohmyzsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 - [Itsycal](http://www.mowglii.com/itsycal) - Itsycal is a tiny calendar for your Mac's menu bar.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
+- [Command Reopen](https://github.com/Feng6611/mac-command-reopen) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 - [MacCleanUp](https://github.com/fwartner/mac-cleanup) - A cleanup script for macOS 
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software 
 
