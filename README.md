@@ -22,6 +22,10 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Free, open-source menu bar app that opens a radial wheel while you drag files, to convert images, video, audio, documents and archives, or resize, compress and OCR them.
 
+- [LumaView](https://github.com/ixiehao/LumaView) - Native macOS image viewer for browsing folders, viewing EXIF metadata, and reading multipage PDFs.
+- [MP4Flow](https://github.com/ixiehao/MP4Flow) - Native macOS front end for batch video conversion, trimming, cropping, rotation, and merging; requires FFmpeg and ffprobe.
+- [ShotMap](https://github.com/ixiehao/ShotMap) - Native macOS app for turning videos into storyboard images with smart frame selection, a manual timeline, and local PNG/JPG export.
+
 ## Essentials
 
 - [Homebrew](https://brew.sh) - Install the Homebrew package manager.
