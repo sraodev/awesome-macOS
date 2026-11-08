@@ -12,6 +12,9 @@ A curated list of awesome macOS open source applications for macOS. This list co
 
 ## Applications
 
+* [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+* [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker in the unused corner space beside the Dock.
+* [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 * [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your macOS.
 - [Atom](https://atom.io) - A hackable text editor for the 21st Century.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
