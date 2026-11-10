@@ -28,6 +28,10 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and phones: one-click dark mode, font scale, RTL, TalkBack, network and GPS, plus a Layout Inspector in dp.
 - [IconCraft](https://github.com/gshipman223/IconCraft) - Free, open-source macOS app for customizing app names and icons, with backups and restore controls.
 
+- [LumaView](https://github.com/ixiehao/LumaView) - Native macOS image viewer for browsing folders, viewing EXIF metadata, and reading multipage PDFs.
+- [MP4Flow](https://github.com/ixiehao/MP4Flow) - Native macOS front end for batch video conversion, trimming, cropping, rotation, and merging; requires FFmpeg and ffprobe.
+- [ShotMap](https://github.com/ixiehao/ShotMap) - Native macOS app for turning videos into storyboard images with smart frame selection, a manual timeline, and local PNG/JPG export.
+
 ## Essentials
 
 - [Homebrew](https://brew.sh) - Install the Homebrew package manager.
