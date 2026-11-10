@@ -42,3 +42,6 @@ A curated list of awesome macOS open source applications for macOS. This list co
 Please take a quick gander at the [contribution guidelines]() for details.
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Album cover and track title beside the Dock.
