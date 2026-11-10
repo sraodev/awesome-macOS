@@ -12,6 +12,9 @@ A curated list of awesome macOS open source applications for macOS. This list co
 
 ## Applications
 
+* [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+* [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker in the unused corner space beside the Dock.
+* [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 * [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your macOS.
 - [Atom](https://atom.io) - A hackable text editor for the 21st Century.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
@@ -20,7 +23,8 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, with a dedicated branch/worktree per task.
 - [BoardEject](https://github.com/royalpinto007/boardeject) - Open-source macOS utility that exports Apple Freeform boards to editable Excalidraw and creates verified local archives with originals, processing stays local on the Mac.
 - [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
-- [Koru](https://github.com/koruworks/mono) - Free, open-source, local-first workspace for notes, documents and files, built natively in Rust for macOS (Apple silicon) and Windows.
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Free, open-source menu bar app that opens a radial wheel while you drag files, to convert images, video, audio, documents and archives, or resize, compress and OCR them.
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and phones: one-click dark mode, font scale, RTL, TalkBack, network and GPS, plus a Layout Inspector in dp.
 
 ## Essentials
 
@@ -29,6 +33,7 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [ohmyzsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 - [Itsycal](http://www.mowglii.com/itsycal) - Itsycal is a tiny calendar for your Mac's menu bar.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
+- [Command Reopen](https://github.com/Feng6611/mac-command-reopen) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 - [MacCleanUp](https://github.com/fwartner/mac-cleanup) - A cleanup script for macOS 
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software 
 
@@ -41,3 +46,6 @@ A curated list of awesome macOS open source applications for macOS. This list co
 Please take a quick gander at the [contribution guidelines]() for details.
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Album cover and track title beside the Dock.
