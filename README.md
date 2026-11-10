@@ -27,6 +27,7 @@ A curated list of awesome macOS open source applications for macOS. This list co
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Free, open-source menu bar app that opens a radial wheel while you drag files, to convert images, video, audio, documents and archives, or resize, compress and OCR them.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and phones: one-click dark mode, font scale, RTL, TalkBack, network and GPS, plus a Layout Inspector in dp.
 - [IconCraft](https://github.com/gshipman223/IconCraft) - Free, open-source macOS app for customizing app names and icons, with backups and restore controls.
+- [LyricGlow](https://github.com/ateymoori/lyricglow) - Free, open-source menu bar app with real-time synced lyrics for Spotify and Apple Music, word-by-word highlighting and translation into 43 languages.
 
 - [LumaView](https://github.com/ixiehao/LumaView) - Native macOS image viewer for browsing folders, viewing EXIF metadata, and reading multipage PDFs.
 - [MP4Flow](https://github.com/ixiehao/MP4Flow) - Native macOS front end for batch video conversion, trimming, cropping, rotation, and merging; requires FFmpeg and ffprobe.
