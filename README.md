@@ -12,6 +12,7 @@ A curated list of awesome macOS open source applications for macOS. This list co
 
 ## Applications
 
+- [vsux](https://github.com/shadowDragons/vsux) - Free, MIT-licensed native Mac editor with project terminals, file editing, Git changes, and Markdown preview; preview release for Apple Silicon and macOS 14+.
 * [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
 * [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker in the unused corner space beside the Dock.
 * [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
